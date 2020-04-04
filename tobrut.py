@@ -1,2 +1,0 @@
-print "apasih"
-print "gapapa"
